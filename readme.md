@@ -7,7 +7,7 @@ It based on the Project [http://jhollingworth.github.io/bootstrap-wysihtml5/](ht
 Examples
 =============
 
-[http://schnawel007.github.com/bootstrap3-wysihtml5](http://jhollingworth.github.com/bootstrap3-wysihtml5/)
+[http://schnawel007.github.com/bootstrap3-wysihtml5](http://schnawel007.github.com/bootstrap3-wysihtml5/)
 
 Quick Start
 =============
