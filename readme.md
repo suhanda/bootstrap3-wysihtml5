@@ -66,7 +66,8 @@ $('#some-textarea').wysihtml5({
 	"html": false, //Button which allows you to edit the generated HTML. Default false
 	"link": true, //Button to insert a link. Default true
 	"image": true, //Button to insert an image. Default true,
-	"color": false //Button to change color of font  
+	"color": false, //Button to change color of font
+	"size": 'sm' //Button size like sm, xs etc.
 });
 ```
 
@@ -79,7 +80,7 @@ For example, the default template used for the editHtml mode button looks like t
 ```html
 <li>
   <div class='btn-group'>
-    <a class='btn" + size + "' data-wysihtml5-action='change_view' title='" + locale.html.edit + "'><i class='icon-pencil'></i></a>"
+    <button class='btn btn-" + size + "' data-wysihtml5-action='change_view' title='" + locale.html.edit + "'><i class='icon-pencil'></i></a>"
   </div>
 </li>
 ```
@@ -91,7 +92,7 @@ var myCustomTemplates = {
   html : function(locale) {
     return "<li>" +
            "<div class='btn-group'>" +
-           "<a class='btn' data-wysihtml5-action='change_view' title='" + locale.html.edit + "'>HTML</a>" +
+           "<a class='btn btn-default' data-wysihtml5-action='change_view' title='" + locale.html.edit + "'>HTML</a>" +
            "</div>" +
            "</li>";
   }

@@ -401,6 +401,7 @@
         "html": false,
         "link": true,
         "image": true,
+        "size": 'sm',
         events: {},
         parserRules: {
             classes: {
