@@ -28,7 +28,7 @@ Files to reference
 <script src="js/wysihtml5-0.3.0.js"></script>
 <script src="js/jquery-1.7.2.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script src="js/bootstrap-wysihtml5.js"></script>
+<script src="js/bootstrap3-wysihtml5.js"></script>
 </pre>
 
 Usage
@@ -161,7 +161,7 @@ $('#some-textarea').wysihtml5('deepExtend', {
 });
 </pre>
 
-There's quite a bit that can be done with parserRules; see "wysihtml5's advanced parser ruleset":https://github.com/xing/wysihtml5/blob/master/parser_rules/advanced.js for details.  bootstrap-wysihtml5's default parserRules can be found "in the source":https://github.com/jhollingworth/bootstrap-wysihtml5/blob/master/src/bootstrap-wysihtml5.js (just search for 'parserRules' in the file).
+There's quite a bit that can be done with parserRules; see "wysihtml5's advanced parser ruleset":https://github.com/xing/wysihtml5/blob/master/parser_rules/advanced.js for details.  bootstrap-wysihtml5's default parserRules can be found "in the source":https://github.com/jhollingworth/bootstrap-wysihtml5/blob/master/src/bootstrap3-wysihtml5.js (just search for 'parserRules' in the file).
 
 ###  Defaults
 

@@ -404,7 +404,7 @@
         events: {},
         parserRules: {
             classes: {
-                // (path_to_project/lib/css/bootstrap-wysiwyg5-color.css)
+                // (path_to_project/lib/css/bootstrap3-wysiwyg5-color.css)
                 "wysiwyg-color-silver" : 1,
                 "wysiwyg-color-gray" : 1,
                 "wysiwyg-color-white" : 1,
@@ -459,7 +459,7 @@
                 "pre": 1
             }
         },
-        stylesheets: ["./css/bootstrap-wysiwyg5-color.css"], // (path_to_project/lib/css/bootstrap-wysiwyg5-color.css)
+        stylesheets: ["./css/bootstrap3-wysiwyg5-color.css"], // (path_to_project/lib/css/bootstrap3-wysiwyg5-color.css)
         locale: "en"
     };
 
