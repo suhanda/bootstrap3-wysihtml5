@@ -21,7 +21,8 @@
         },
         link: {
               insert: "Afegir enllaç",
-              cancel: "Cancelar"
+              cancel: "Cancelar",
+              target: "Obrir enllaç en una finestra"
         },
         image: {
               insert: "Afegir imatge",
