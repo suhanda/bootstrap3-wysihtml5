@@ -22,7 +22,8 @@
         },
         link: {
             insert: "插入超連結",
-            cancel: "取消"
+            cancel: "取消",
+            target: "在新窗口中打开链接"
         },
         image: {
             insert: "插入圖片連結",
