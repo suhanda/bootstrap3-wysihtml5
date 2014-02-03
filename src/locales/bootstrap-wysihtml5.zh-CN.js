@@ -22,7 +22,8 @@
         },
         link: {
             insert: "插入链接",
-            cancel: "取消"
+            cancel: "取消",
+            target: "在新窗口中打开链接"
         },
         image: {
             insert: "插入图片",

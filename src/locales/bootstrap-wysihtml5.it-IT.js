@@ -25,7 +25,8 @@
         },
         image: {
               insert: "Inserisci immagine",
-              cancel: "Annulla"
+              cancel: "Annulla",
+              target: "Apri il link in una nuova finestra"
         },
         html: {
             edit: "Modifica HTML"

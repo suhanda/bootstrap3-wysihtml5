@@ -22,7 +22,8 @@
         },
         link: {
             insert: "Vložit odkaz",
-            cancel: "Zrušit"
+            cancel: "Zrušit",
+            target: "Otevřít odkaz v novém okně"
         },
         image: {
             insert: "Vložit obrázek",
