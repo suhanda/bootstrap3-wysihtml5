@@ -1,0 +1,1728 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getBodyEditor"
+			],
+			[
+				"set",
+				"set_attributes"
+			],
+			[
+				"has",
+				"hasCombo"
+			],
+			[
+				"or",
+				"orderItemDetail  (variable)"
+			],
+			[
+				"orde",
+				"orderDetail"
+			],
+			[
+				"order",
+				"orderDetail  (variable)"
+			],
+			[
+				"de",
+				"delivery_address  (variable)"
+			],
+			[
+				"cha",
+				"channels"
+			],
+			[
+				"leg",
+				"length"
+			],
+			[
+				"loa",
+				"loadData"
+			],
+			[
+				"padd",
+				"padding-right:   (property)"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"pad",
+				"padding-top:   (property)"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"blo",
+				"inline-block  (value)"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"chan",
+				"changeStatus"
+			],
+			[
+				"in",
+				"include	@include"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"STATUS_",
+				"STATUS_CLOSED"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"deli",
+				"delivery_guy_id"
+			],
+			[
+				"delive",
+				"delivery_guy_id  (variable)"
+			],
+			[
+				"p",
+				"primaryKey  (function)"
+			],
+			[
+				"combo",
+				"combo_id"
+			],
+			[
+				"ex",
+				"expired"
+			],
+			[
+				"fin",
+				"findByPk  (function)"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"_",
+				"_dbConnection"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"lin",
+				"line-height:   (property)"
+			],
+			[
+				"yo",
+				"yopanino-color-orange"
+			],
+			[
+				"color-",
+				"color-delivered-two"
+			],
+			[
+				"color",
+				"color-delivered-one"
+			],
+			[
+				"colo",
+				"color-open-one"
+			],
+			[
+				"orde-",
+				"order-closed"
+			],
+			[
+				"border",
+				"border-left:   (property)"
+			],
+			[
+				"z",
+				"zip	zip()"
+			],
+			[
+				"STATUS",
+				"STATUS_CLOSED  (constant)"
+			],
+			[
+				"del",
+				"delivery_guy_id"
+			],
+			[
+				"STA",
+				"STATUS_DELIVERED  (constant)"
+			],
+			[
+				"STa",
+				"STATUS_DELIVERED  (constant)"
+			],
+			[
+				"con",
+				"confirm"
+			],
+			[
+				"confirm",
+				"confirmCallback"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"data",
+				"dataModal"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"procc",
+				"Proccesed"
+			],
+			[
+				"Js",
+				"json_encode"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"text",
+				"text-align:   (property)"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"box",
+				"box-shadow:   (property)"
+			],
+			[
+				"rem",
+				"rem-calc"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"y",
+				"yopanino-color-red"
+			],
+			[
+				"yop",
+				"yopanino-color-red"
+			],
+			[
+				"st",
+				"str2  (variable)"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"ordr",
+				"orderItemDetail"
+			],
+			[
+				"find",
+				"findByAttributes  (function)"
+			],
+			[
+				"delivery_",
+				"delivery_zipcode"
+			],
+			[
+				"render",
+				"renderPartial"
+			],
+			[
+				"com",
+				"compareTo"
+			],
+			[
+				"ass",
+				"asset"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"background-",
+				"background-image:   (property)"
+			],
+			[
+				"ord",
+				"order_id"
+			],
+			[
+				"creat",
+				"createUrl  (function)"
+			],
+			[
+				"crea",
+				"createUrl  (function)"
+			],
+			[
+				"so",
+				"socket"
+			],
+			[
+				"clo",
+				"close"
+			],
+			[
+				"cna",
+				"channel  (variable)"
+			],
+			[
+				"is",
+				"isajax	Yii isAjaxRequest"
+			],
+			[
+				"messa",
+				"messages"
+			],
+			[
+				"time",
+				"timer"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"u",
+				"urlComponent  (variable)"
+			],
+			[
+				"req",
+				"reqtype	Yii requestType"
+			],
+			[
+				"store",
+				"store_id"
+			],
+			[
+				"cla",
+				"class=  (attribute)"
+			],
+			[
+				"findBy",
+				"findByPk  (function)"
+			],
+			[
+				"margin",
+				"margin-top:   (property)"
+			],
+			[
+				"bor",
+				"border-bottom:   (property)"
+			],
+			[
+				"main",
+				"main-grid"
+			],
+			[
+				"max",
+				"max-width:   (property)"
+			],
+			[
+				"font-s",
+				"font-size:   (property)"
+			],
+			[
+				"le",
+				"left:   (property)"
+			],
+			[
+				"ri",
+				"right:   (property)"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"borde",
+				"border-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"res",
+				"resizeCt"
+			],
+			[
+				"ce",
+				"center  (element)"
+			],
+			[
+				"yi",
+				"yopanino-orange-color-hover"
+			],
+			[
+				"str_",
+				"str_rot13  (function)"
+			],
+			[
+				"base",
+				"base64_decode  (function)"
+			],
+			[
+				"imp",
+				"implode"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"close",
+				"closeTag"
+			],
+			[
+				"end",
+				"endWidget  (function)"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"t",
+				"table-cell"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"au",
+				"authItem  (variable)"
+			],
+			[
+				"a",
+				"authItem"
+			],
+			[
+				"re",
+				"resolveCacheKey  (function)"
+			],
+			[
+				"ope",
+				"operation"
+			],
+			[
+				"trasit",
+				"transition:   (property)"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"Sa",
+				"Sans"
+			],
+			[
+				"ff",
+				"ffc13c"
+			],
+			[
+				"ite",
+				"items  (variable)"
+			],
+			[
+				"fr",
+				"foreach	foreach …"
+			],
+			[
+				"strrep",
+				"str_replace"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/js/bootbox.min.js",
+			"settings":
+			{
+				"buffer_size": 8553,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/bootstrap3-wysihtml5-extended.js",
+			"settings":
+			{
+				"buffer_size": 20889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/bootstrap3-wysihtml5.js",
+			"settings":
+			{
+				"buffer_size": 23608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dedi.suhanda/public_html/wysihtml5-image-upload/js/custom_image_and_upload_wysihtml5.js",
+			"settings":
+			{
+				"buffer_size": 5036,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dedi.suhanda/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1041,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"",
+				"File: New File Relative to Current View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git p",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ci",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"controll",
+				"Snippet: Yii Create controller class"
+			],
+			[
+				"controller",
+				"Snippet: Yii Create controller class"
+			],
+			[
+				"yii con",
+				"Snippet: Yii Create controller action method"
+			],
+			[
+				"git add ..",
+				"Git: Add..."
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git ps",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"istall ",
+				"Package Control: Install Package"
+			],
+			[
+				"git add..",
+				"Git: Add..."
+			],
+			[
+				"php ",
+				"Set Syntax: PHP"
+			],
+			[
+				"gitpush",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pull ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"git che",
+				"Git: Change Branch"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dedi.suhanda/public_html/bootstrap3-wysihtml5/src/bootstrap3-wysihtml5.js",
+		"/Users/dedi.suhanda/public_html/bootstrap3-wysihtml5/upload.sublime-project",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/packages/redis/ARedisIterableEntity.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/packages/dompdf/include/text_renderer.cls.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/bin/kueue/node_modules/jade/lib/inline-tags.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/api/public/index.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/models/Items.php",
+		"/Users/dedi.suhanda/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/components/UserIdentity.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/models/DeliveryGuy.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery_1/components/UserIdentity.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/controllers/SiteController.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery_1/components/WebUser.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/components/WebUser.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/models/forms/LoginForm.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery_1/models/forms/LoginForm.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/public/index.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/components/Controller.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/packages/widgets/LocationWidget.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/views/site/index.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/models/Order.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/layouts/grid.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/db",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/Raptor_SP/sp_API_.sql",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/layouts/main.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/views/layouts/main.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/views/layouts/grid.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/controllers/OrderController.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/models/RaptorHelper.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/data/m20140320_99_alter_store.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/models/Store.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/tpl/_detail.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/models/OrderItemDetail.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/components/Controller.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/config/main.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/models/forms/OrderForm.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/models/OrderDetail.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/site/index.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/models/Stream.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/index.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/kitchen/_base.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/_function/_function.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/kitchen/partial/_setting.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/tpl/_formdelivered.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/tpl/_formopen.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/tpl/_formprocessed.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/assets/font/flaticon.css",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/font/flaticon.css",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/controllers/SiteController.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/site/history.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen copy/components/UserIdentity.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen copy/controllers/OrderController.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen copy/components/Controller.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/views/site/history.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen copy/controllers/SiteController.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/business/components/Controller.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/controllers/OrderController.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/.gitignore",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/Vagrantfile",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/tpl/_order.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/views/order/tpl/_order.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/views/order/tpl/_detail.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/views/order/tpl/_formdelivered.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/delivery/views/order/detail.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/front/controllers/SiteController.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/front/controllers/CustomerController.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/js/jquery/jquery.min.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/ephemeral.sublime-project",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/scrollbar/jquery-custom-scrollbar.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/scrollbar/jquery-custom-scrollbar.css",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/Gemfile",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/config.rb",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/yii/yiilite.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/scss/_main.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/config/main-local.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/scss/app.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/stylesheets/app.css",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/.gitignore",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/delivery/_base.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/kitchen.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/delivery.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/stylesheets/vendor/foundation/foundation.css",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/vendor/foundation/foundation.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/stylesheets/kitchen.css",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/delivery/partial/_setting.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/vendor/foundation/foundation.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/sass/sass/vendor/scss/foundation.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/tpl/_formcancelled.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/tpl/_formclosed.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/order/detail.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/console/config/main-local.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/components/Formatter.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/scss/_settings.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/bower_components/foundation/scss/foundation/components/_tables.scss",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/front/modules/yotogo/models/CheckoutForm.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/packages/redis/ARedisList.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/site/login.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/data/m20140224_99_alter_order.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/js/reveal-confirm.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/runtime/cache/1a7ebfdbab568914f50c94e36505415b.bin",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/front/config/main-local.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/packages/widgets/humane/AtHumaneDate.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/packages/widgets/humane/assets/humane.js",
+		"/Users/dedi.suhanda/public_html/gl-customer-web/protected/assets/js/humane.min.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/yii/utils/CFormatter.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/components/CSClientScript.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/components/Shortener.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/bower_components/foundation/js/foundation.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/models/forms/LoginForm.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/components/CommonFormModel.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/data/m20140210_99_alter_user.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/components/UserIdentity.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/site/stream.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/views/site/location.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/yii/gii/models/LoginForm.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/packages/widgets/LocationWidget.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/bin/yolo/lib/worker.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/bin/yolo/app.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/bin/yolo/config.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/business/public/blaoap.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/components/WebUser.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/bower_components/jquery/jquery.min.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/bin/yolo/lib/route.js",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/common/lib/yii/web/auth/CAccessControlFilter.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/data/auth.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/api/config/main.php",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/.gitignore",
+		"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/assets/fou/config.rb"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen/",
+			"/Users/dedi.suhanda/public_html/yopanino-baseline/kitchen",
+			"/Users/dedi.suhanda/public_html/ephemeral",
+			"",
+			"*.php",
+			"<project>",
+			"*.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"customTemplates",
+			"custome",
+			"@POSID varchar(6),\n                @OperatorNo smallint, \n                @TableNo varchar(20),\n                @SalesNo int,\n                @SplitNo smallint,\n                @SalesRef int,\n                @Modifier varchar(20)",
+			"OperatorNo",
+			"Operatorno",
+			"OperatorNo",
+			"POSID",
+			"FnID",
+			"plu",
+			"']",
+			"data['",
+			"$this->",
+			"data[",
+			"remark",
+			"loadingError",
+			"changeStatus",
+			"kitchen",
+			"kichen",
+			"foundation",
+			"delivered",
+			"top-bar",
+			"nav",
+			"cancelled",
+			"open",
+			"delivered",
+			"closed",
+			"delivered",
+			"open",
+			"processed",
+			"canceled",
+			"processed",
+			"h1{\n			//color: $color-open-one;\n		}",
+			"open",
+			"process",
+			"open",
+			"\\n",
+			"table",
+			"\"required\"=>true ,",
+			"abide",
+			"ebide",
+			"button",
+			"12",
+			"fa5454",
+			"orderItemDetail",
+			"$var",
+			"h1",
+			"panel",
+			"table",
+			"reveal",
+			"revial",
+			"$table-even-row",
+			"$table-even-row-bg",
+			"table",
+			"12",
+			"right",
+			"getModel",
+			"\"),);",
+			"registerCoreScript",
+			"jquery",
+			"registerCoreScript)",
+			"registerCoreScript",
+			"registerCo",
+			"core",
+			"equalizer",
+			"handleChanNot",
+			"registerScritp",
+			"stream",
+			"<!-- Your content goes here -->",
+			"email_address",
+			"h1",
+			"hi",
+			"form",
+			"$reveal",
+			"\n$reveal",
+			"\n$reveal-modal-padding",
+			"\n$reveal-modal-padding:",
+			"\n$reveal-modal-padding: ",
+			"\n$reveal-modal-padding: rem-calc(20);",
+			".a",
+			"a",
+			"link",
+			"main-grid",
+			"ct",
+			"<div class=\"ct\">",
+			"body-font-size",
+			"body-font-s",
+			"body-font",
+			"business",
+			"main-grid",
+			"orange-color",
+			"yopanino-ora",
+			"join",
+			"h1",
+			"body-font-family",
+			"008cba",
+			"srt",
+			"foundation",
+			"uby1.9.1",
+			"1.9.1",
+			"front",
+			"catCollapse",
+			"<br/>",
+			"collapse",
+			"margin",
+			"menu-cat",
+			"catMenu",
+			"'));\n",
+			"30px",
+			"40px",
+			"item-menu",
+			"footer",
+			"..';",
+			"createA",
+			"GetAuthItem",
+			"getAuthItems",
+			"whatever",
+			"500",
+			"2s",
+			"pertition",
+			"menu-ca",
+			"\n		<a href=\"#\">menu</a>",
+			"this",
+			"category",
+			"category_name",
+			"Guys",
+			"Delivery",
+			"items_category",
+			"item_category"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$this->getDbConnection()",
+			"$this->getDbConnection()\n",
+			"}\n",
+			"Fidélité"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/js/bootbox.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8553,
+								8553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/bootstrap3-wysihtml5-extended.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9283,
+								9283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/bootstrap3-wysihtml5.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 23608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6821.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/dedi.suhanda/public_html/wysihtml5-image-upload/js/custom_image_and_upload_wysihtml5.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4941,
+								4945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/dedi.suhanda/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1007,
+								1007
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 371.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 230.0
+	},
+	"project": "upload.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"items",
+				"Common/models/Items.php"
+			],
+			[
+				"itemd",
+				"//common/models/OrderItemDetail.php"
+			],
+			[
+				"orderitemdetail",
+				"Common/models/OrderItemDetail.php"
+			],
+			[
+				"humane",
+				"gl-customer-web/protected/assets/js/humane.min.js"
+			],
+			[
+				"caccesscontrolfilter",
+				"Common/lib/yii/web/auth/CAccessControlFilter.php"
+			],
+			[
+				"tbnavbar",
+				"Common/packages/appsindo/widgets/TbNavbar.php"
+			],
+			[
+				"tbc",
+				"Common/packages/appsindo/widgets/TbCollapse.php"
+			],
+			[
+				"menucategorywidget",
+				"Front/components/widgets/MenuCategoryWidget.php"
+			],
+			[
+				"ordercolumn",
+				"Business/components/OrderColumn.php"
+			],
+			[
+				"cwebuser",
+				"Common/lib/yii/web/auth/CWebUser.php"
+			],
+			[
+				"cauthi",
+				"Common/lib/yii/web/auth/CAuthItem.php"
+			],
+			[
+				"iauthmanager.php",
+				"Common/lib/yii/web/auth/CDbAuthManager.php"
+			],
+			[
+				"cauthma",
+				"Common/lib/yii/web/auth/CAuthManager.php"
+			],
+			[
+				"main.css",
+				"Front/assets/css/main.css"
+			],
+			[
+				"menucate",
+				"Common/models/MenuCategory.php"
+			],
+			[
+				"cmod",
+				"Common/lib/yii/base/CModel.php"
+			],
+			[
+				"cactive",
+				"Common/lib/yii/db/ar/CActiveRecord.php"
+			],
+			[
+				"atalert",
+				"Common/packages/appsindo/widgets/AtAlert.php"
+			],
+			[
+				"bigbanner",
+				"//common/models/BigBanner.php"
+			],
+			[
+				"tbtogglecolumn",
+				"Common/packages/appsindo/widgets/TbToggleColumn.php"
+			],
+			[
+				"cactiverecordbehavior",
+				"Common/lib/yii/db/ar/CActiveRecordBehavior.php"
+			],
+			[
+				"atpointviewer",
+				"//common/packages/appsindo/widgets/AtPointViewer.php"
+			],
+			[
+				"clistve",
+				"Common/lib/yii/zii/widgets/CListView.php"
+			],
+			[
+				"eay",
+				"Common/packages/appsindo/widgets/EasyMap.php"
+			],
+			[
+				"cmenu",
+				"Common/lib/yii/zii/widgets/CMenu.php"
+			],
+			[
+				"tbbasemenu",
+				"Common/packages/appsindo/widgets/TbBaseMenu.php"
+			],
+			[
+				"tbmenu",
+				"Common/packages/appsindo/widgets/TbMenu.php"
+			],
+			[
+				"modelcontent",
+				"Common/models/ContentCategory.php"
+			],
+			[
+				"chttpexception",
+				"Common/lib/yii/base/CHttpException.php"
+			],
+			[
+				"loginf",
+				"Api/models/forms/LoginForm.php"
+			],
+			[
+				"cactiverecord",
+				"Common/lib/yii/db/ar/CActiveRecord.php"
+			],
+			[
+				"option",
+				"Common/models/Options.php"
+			],
+			[
+				"brandop",
+				"Common/models/BrandOption.php"
+			],
+			[
+				"cardclass",
+				"//common/models/CardClass.php"
+			],
+			[
+				"modelmetafi",
+				"Common/models/MetaFields.php"
+			],
+			[
+				"modelmeta",
+				"Common/models/Meta.php"
+			],
+			[
+				"customerm",
+				"Business/modules/customer/controllers/CustomerMetaController.php"
+			],
+			[
+				"metafi",
+				"//common/models/MetaFields.php"
+			],
+			[
+				"meta",
+				"Business/components/MetaController.php"
+			],
+			[
+				"metaf",
+				"common/models/MetaFields.php"
+			],
+			[
+				"gii",
+				"common/lib/yii/gii/GiiModule.php"
+			],
+			[
+				"pollingreward",
+				"common/models/PollingReward.php"
+			],
+			[
+				"apierrorcode",
+				"api/components/ApiErrorCode.php"
+			],
+			[
+				"custome",
+				"common/models/Customer.php"
+			],
+			[
+				"cmap",
+				"common/lib/yii/collections/CMap.php"
+			],
+			[
+				"cardclas",
+				"common/models/CardClass.php"
+			],
+			[
+				"apiac",
+				"api/components/ApiAction.php"
+			],
+			[
+				"modelscardclas",
+				"common/models/CardClass.php"
+			],
+			[
+				"busin",
+				"ephemeral/business/components/BusinessController.php"
+			],
+			[
+				"cardclassf",
+				"business/modules/client_dp/views/cardClass/form.php"
+			],
+			[
+				"businessweb",
+				"business/components/BusinessWebUser.php"
+			],
+			[
+				"useri",
+				"business/components/UserIdentity.php"
+			],
+			[
+				"userrole",
+				"common/models/UserRole.php"
+			],
+			[
+				"useridentity",
+				"business/components/UserIdentity.php"
+			],
+			[
+				"cardcla",
+				"common/models/CardClass.php"
+			],
+			[
+				"cmodel",
+				"common/lib/yii/base/CModel.php"
+			],
+			[
+				"cactivere",
+				"common/lib/yii/db/ar/CActiveRecord.php"
+			],
+			[
+				"cdbcon",
+				"common/lib/yii/db/CDbCommand.php"
+			],
+			[
+				"pointhistory",
+				"common/models/PointHistory.php"
+			],
+			[
+				"cardaccoun",
+				"common/models/CardAccount.php"
+			],
+			[
+				"",
+				"api/modules/api/modules/v3/controllers/transaction/CardTransferAction.php"
+			],
+			[
+				"transact",
+				"common/models/Transaction.php"
+			],
+			[
+				"cardba",
+				"common/models/CardBatch.php"
+			],
+			[
+				"businessca",
+				"common/models/BusinessCard.php"
+			],
+			[
+				"businessmo",
+				"business/components/BusinessModule.php"
+			],
+			[
+				"businesscontroller",
+				"business/components/BusinessController.php"
+			],
+			[
+				"cardb",
+				"common/models/CardBatch.php"
+			],
+			[
+				"customerinbox",
+				"common/models/CustomerInbox.php"
+			],
+			[
+				"promoc",
+				"business/modules/promo/controllers/PromoController.php"
+			],
+			[
+				"customeri",
+				"common/models/CustomerInbox.php"
+			],
+			[
+				"controllerdialognew",
+				"api/modules/api/modules/v3/controllers/dialog/NewRegisterAction.php"
+			],
+			[
+				"dialonew",
+				"api/views/dialog/newRegister.php"
+			],
+			[
+				"contro",
+				"protected/components/Controller.php"
+			],
+			[
+				"businesswe",
+				"business/components/BusinessWebUser.php"
+			],
+			[
+				"branduser",
+				"common/models/BrandUser.php"
+			],
+			[
+				"branduserform",
+				"business/models/forms/BrandUserForm.php"
+			],
+			[
+				"userrol",
+				"common/models/UserRole.php"
+			],
+			[
+				"usercon",
+				"business/modules/user/controllers/UserController.php"
+			],
+			[
+				"brandus",
+				"common/models/BrandUser.php"
+			],
+			[
+				"businessw",
+				"business/components/BusinessWebUser.php"
+			],
+			[
+				"con",
+				"business/components/Controller.php"
+			],
+			[
+				"bus",
+				"business/components/BusinessController.php"
+			],
+			[
+				"busi",
+				"business/components/BusinessModule.php"
+			],
+			[
+				"pollingqu",
+				"common/models/PollingQuestion.php"
+			],
+			[
+				"ou",
+				"api/components/OutputUtils.php"
+			],
+			[
+				"accountre",
+				"common/models/CardAccountReward.php"
+			],
+			[
+				"rewarcon",
+				"business/modules/gl/controllers/RewardController.php"
+			],
+			[
+				"cardaccountreward",
+				"common/models/CardAccountReward.php"
+			],
+			[
+				"apie",
+				"api/components/ApiErrorCode.php"
+			],
+			[
+				"rewar",
+				"business/modules/gl/controllers/RewardController.php"
+			],
+			[
+				"reward",
+				"business/modules/gl/controllers/RewardController.php"
+			],
+			[
+				"apiex",
+				"api/components/ApiException.php"
+			],
+			[
+				"customer",
+				"common/models/CustomerInbox.php"
+			],
+			[
+				"customerin",
+				"common/models/CustomerInbox.php"
+			],
+			[
+				"cardaccountre",
+				"common/models/CardAccountReward.php"
+			],
+			[
+				"polling",
+				"common/models/Polling.php"
+			],
+			[
+				"pollingcon",
+				"business/modules/polling/controllers/PollingController.php"
+			],
+			[
+				"pollingrea",
+				"common/models/PollingReward.php"
+			],
+			[
+				"apierr",
+				"api/components/ApiErrorCode.php"
+			],
+			[
+				"pollingrewa",
+				"common/models/PollingReward.php"
+			],
+			[
+				"pollingr",
+				"common/models/PollingReward.php"
+			],
+			[
+				"param",
+				"protected/config/params.php"
+			],
+			[
+				"main",
+				"protected/config/main.php"
+			],
+			[
+				"loyal",
+				"protected/controllers/LoyaltyCardController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 453.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
